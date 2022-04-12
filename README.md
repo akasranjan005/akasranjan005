@@ -2,7 +2,7 @@
 <h3 align="center">A Full Stack Python & Javascript Developer with DevOps experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akasranjan005&label=Profile%20views&color=0e75b6&style=flat" alt="akasranjan005" /> </p>
-<p align="left"> <img src="https://wakatime.com/badge/user/96356945-4da9-430e-94f4-56b87646eabb.svg" alt="wakatime" /> </p>
+<p align="left"> <a href="https://wakatime.com/@96356945-4da9-430e-94f4-56b87646eabb"><img src="https://wakatime.com/badge/user/96356945-4da9-430e-94f4-56b87646eabb.svg" alt="Total time coded since Sep 12 2021" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/akasranjan" target="blank"><img src="https://img.shields.io/twitter/follow/akasranjan?logo=twitter&style=for-the-badge" alt="akasranjan" /></a> </p>
 
